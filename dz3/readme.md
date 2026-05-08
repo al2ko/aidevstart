@@ -12,5 +12,9 @@
 
 [plan.md](doc/ka-0001/plan.md)
 
+скрин результата
+
+![alt text](image.png)
+
 
 [в начало](../readme.md)
