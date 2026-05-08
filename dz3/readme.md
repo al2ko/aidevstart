@@ -1,5 +1,5 @@
 
-[в начало](..\readme.md)
+[в начало](../readme.md)
 
 **Домашнее задание 3*
 
@@ -8,9 +8,9 @@
 
 Реализована внешняя обработка которая подключается к Битрикс 24 и выводит активные задачи
 
-[brief.md](doc\ka-0001\brief.md)
+[brief.md](doc/ka-0001/brief.md)
 
-[plan.md](doc\ka-0001\plan.md)
+[plan.md](doc/ka-0001/plan.md)
 
 
-[в начало](..\readme.md)
+[в начало](../readme.md)
